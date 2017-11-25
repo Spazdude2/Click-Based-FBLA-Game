@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Click-Based-FBLA-Game", "Click-Based-FBLA-Game.csproj", "{666470CA-767F-B137-90AC-AF4BC9AB88F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Click-Based-FBLA-Game.Editor", "Click-Based-FBLA-Game.Editor.csproj", "{8CC41927-41AA-CE94-BCE7-3E567A3A8B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666470CA-767F-B137-90AC-AF4BC9AB88F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666470CA-767F-B137-90AC-AF4BC9AB88F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666470CA-767F-B137-90AC-AF4BC9AB88F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666470CA-767F-B137-90AC-AF4BC9AB88F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC41927-41AA-CE94-BCE7-3E567A3A8B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC41927-41AA-CE94-BCE7-3E567A3A8B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC41927-41AA-CE94-BCE7-3E567A3A8B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC41927-41AA-CE94-BCE7-3E567A3A8B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
