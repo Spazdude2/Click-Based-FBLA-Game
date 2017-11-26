@@ -220,6 +220,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ActionItem.cs" />
+    <Compile Include="Assets\DialogueSystem.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\NPC.cs" />
     <Compile Include="Assets\PickUpItem.cs" />

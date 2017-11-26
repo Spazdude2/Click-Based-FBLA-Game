@@ -33,6 +33,7 @@ public class WorldInteraction : MonoBehaviour
             }
             else
             {
+                PlayerAgent.stoppingDistance = 0;
                 PlayerAgent.destination = interactionInfo.point;
             }
         }
