@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Interactable Everything.unity
+- path: Assets/Stats(non-desplayable).unity
   isLoaded: 1
   isActive: 1

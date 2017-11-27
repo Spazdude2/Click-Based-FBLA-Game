@@ -220,11 +220,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ActionItem.cs" />
+    <Compile Include="Assets\BaseStat.cs" />
+    <Compile Include="Assets\CharacterStats.cs" />
     <Compile Include="Assets\DialogueSystem.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\NPC.cs" />
     <Compile Include="Assets\PickUpItem.cs" />
     <Compile Include="Assets\SignPost.cs" />
+    <Compile Include="Assets\StatBonus.cs" />
+    <Compile Include="Assets\Sun.cs" />
     <Compile Include="Assets\WorldInteraction.cs" />
   </ItemGroup>
   <ItemGroup>

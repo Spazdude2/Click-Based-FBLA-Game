@@ -18,9 +18,9 @@ public class DialogueSystem : MonoBehaviour
 	// Use this for initialization
 	void Awake ()
     {
-        ContinueButton = DialoguePanel.transform.FindChild("Continue").GetComponent<Button>();
-        dialogueText = DialoguePanel.transform.FindChild("Text").GetComponent<Text>();
-        nameText = DialoguePanel.transform.FindChild("Name").GetChild(0).GetComponent<Text>();
+        ContinueButton = DialoguePanel.transform.Find("Continue").GetComponent<Button>();
+        dialogueText = DialoguePanel.transform.Find("Text").GetComponent<Text>();
+        nameText = DialoguePanel.transform.Find("Name").GetChild(0).GetComponent<Text>();
         ContinueButton.onClick.AddListener(delegate { ContinueDialogue(); });
         DialoguePanel.SetActive(false);
 
