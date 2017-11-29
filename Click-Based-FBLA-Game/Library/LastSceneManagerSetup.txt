@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Diamond Sword.unity
+- path: Assets/Suplex Staff.unity
   isLoaded: 1
   isActive: 1
